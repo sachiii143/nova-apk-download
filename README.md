@@ -1,17 +1,20 @@
 <!-- NOVA-PRODUCT-VISION-START -->
-
 # NOVA — One AI Platform, Two Personal Experiences
 
-NOVA is an Android AI companion platform built around two experiences:
+**NOVA — Learn together. Remember meaningfully. Grow with AI.**
 
-- **NOVA Kids:** A friendly learning companion for after-school conversations, homework guidance, everyday knowledge and new skills, with child safety and parental supervision as core requirements.
-- **NOVA Personal:** A memory-inspired AI companion for adults, using user-provided personality profiles and authorized memories to create personalized conversations, with an on-screen avatar experience as a long-term goal.
+NOVA is an independent Android AI companion project with two distinct experiences:
 
-**Main motive:** Make AI more personal and useful — helping children learn and grow, while helping adults preserve and revisit meaningful memories through transparent, user-controlled AI experiences.
+- **NOVA Kids:** A friendly learning companion designed to help children explore, understand school lessons, practise skills and grow with appropriate parental supervision and safety.
+- **NOVA Personal:** A personalized, memory-inspired AI companion that uses user-provided stories, personality profiles and authorized media to create contextual conversations and visual companionship.
 
-NOVA is an AI simulation, not the actual person represented by a personality profile. Advanced avatar, voice and learning capabilities remain under development.
+Both experiences share an AI platform while keeping their memories, privacy requirements and safeguards separate.
 
-[Read the complete project vision](PROJECT-VISION.md)
+**Read the complete product vision, motivation, feature goals, safety principles and development roadmap:**
+
+[Read the complete NOVA Product Vision](PROJECT-VISION.md)
+
+NOVA 1.4.0 is an Android preview build. The complete vision describes the intended product direction; not every planned feature is implemented yet.
 
 <!-- NOVA-PRODUCT-VISION-END -->
 # NOVA — Your Personal AI Companion for Android
