@@ -1,4 +1,20 @@
-﻿# NOVA — Your Personal AI Companion for Android
+<!-- NOVA-PRODUCT-VISION-START -->
+
+# NOVA — One AI Platform, Two Personal Experiences
+
+NOVA is an Android AI companion platform built around two experiences:
+
+- **NOVA Kids:** A friendly learning companion for after-school conversations, homework guidance, everyday knowledge and new skills, with child safety and parental supervision as core requirements.
+- **NOVA Personal:** A memory-inspired AI companion for adults, using user-provided personality profiles and authorized memories to create personalized conversations, with an on-screen avatar experience as a long-term goal.
+
+**Main motive:** Make AI more personal and useful — helping children learn and grow, while helping adults preserve and revisit meaningful memories through transparent, user-controlled AI experiences.
+
+NOVA is an AI simulation, not the actual person represented by a personality profile. Advanced avatar, voice and learning capabilities remain under development.
+
+[Read the complete project vision](PROJECT-VISION.md)
+
+<!-- NOVA-PRODUCT-VISION-END -->
+# NOVA — Your Personal AI Companion for Android
 
 <p align="center">
   <strong>A personal AI companion designed to understand context, remember information, communicate naturally and assist with everyday digital tasks.</strong>
